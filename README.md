@@ -1,7 +1,6 @@
 # hello-world
 New to github
 
-Newwwwwwwwwwwwwwwwwwwwww
-Things Happen
+android dev
 
 I want to be anroid dev
